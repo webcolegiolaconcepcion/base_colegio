@@ -16,7 +16,7 @@
                     <strong>Sede B: Bachillerato: </strong>Calle 63 sur #78j-10<br>
                     <strong>Sede C: Primaria: </strong>Carrera 87C #67-18 sur<br>
                     <a href="https://accounts.google.com/v3/signin/identifier?dsh=S-720747968%3A1668875238819075&authuser=0&continue=https%3A%2F%2Fmail.google.com&ec=GAlAFw&hl=es-419&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession" target="_blank" class="text-info">cedlaconcepcion7@educacionbogota.edu.co</a><br>
-                    <strong>PBX:</strong>(+57)-(1)7778023<br>
+                    <strong>PBX:</strong>(+57)-(601)7778023<br>
                     Ciudad Bogotá D.C
                 </p>
             </div>
