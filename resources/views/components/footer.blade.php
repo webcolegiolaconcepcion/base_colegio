@@ -31,22 +31,22 @@
                     <li>
                         <p class="text-info">
                         <strong>Rectoría: <br>
-                            Sede B: lunes de 9 a 11 am y 2 a 4 pm,
-                            Sede A: viernes de 9 a 11 am
+                            </strong>Sede B: lunes de 9 a 11 am y 2 a 4 pm,
+                            </strong>Sede A: viernes de 9 a 11 am
                         </p>
                     </li>
                     <li>
                         <p class="text-info">
                         <strong>Secretaría académica: <br>
-                            Sede B: lunes de 8 a 12 am y 2 a 4 pm
+                            </strong>Sede B: lunes de 8 a 12 am y 2 a 4 pm
                         </p>
                     </li>
                     <li>
                         <p class="text-info">
                         <strong>Coordinación: <br>
-                            Sede A: lunes y viernes de 11am a 1 pm.
-                            Sede B: lunes, miércoles y viernes de 7:30 a 9:30 am JM y de 1:30 a 3:30 pm JT.
-                            Sede C: martes y jueves de 11 am a 1 pm.
+                            </strong>Sede A: lunes y viernes de 11am a 1 pm.
+                            </strong>Sede B: lunes, miércoles y viernes de 7:30 a 9:30 am JM y de 1:30 a 3:30 pm JT.
+                            </strong>Sede C: martes y jueves de 11 am a 1 pm.
                         </p>
                         {{-- <a href="" target="_blank" class="text-info">Link3</a> --}}
                     </li>
