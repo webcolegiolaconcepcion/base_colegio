@@ -10,7 +10,8 @@
 
                 <p class="text-light flex-column-reverse" align="left">
                     La Concepción: construyendo hechos de vida <br>
-                    Resolución: Básica Primaria 7453 de 13/10/1998, Básica secundaria 070215 de 4/01/2010, Media Vocacional 07-123 25/09/2017 - DANE: 11100186758 – NIT: 8300490920 
+                    Resolución: Básica Primaria 7453 de 13/10/1998, Básica secundaria 070215 de 4/01/2010, Media Vocacional 07-123 25/09/2017 <br> 
+                    DANE: 11100186758 – NIT: 8300490920 <br>
                     Institución de Educativa sujeta a inspección y vigilancia por el Ministerio de Educación Nacional. <br>
                     <strong>Sede A: Transición: </strong>Carrera 87K#69-40sur<br>
                     <strong>Sede B: Bachillerato: </strong>Calle 63 sur #78j-10<br>
