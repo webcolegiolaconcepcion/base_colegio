@@ -76,7 +76,7 @@
     <!-- Copyright -->
     <div class="text-center p-3 text-light" style="background-color: #250C10">
       © 2020 Copyright:
-        <a class="text-info" href="Link">Mi Colegio</a>
+        <a class="text-info" href="https://colegiolaconcepcionied.com.co/">Mi Colegio</a>
     </div>
     <!-- Copyright -->
 </footer>
